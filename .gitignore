@@ -16,3 +16,6 @@
 *-rescue.lib
 *.prl
 fp-info-cache
+
+# JLCPCB Tools plugin cache
+jlcpcb/
