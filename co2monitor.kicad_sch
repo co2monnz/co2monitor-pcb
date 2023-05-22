@@ -3892,7 +3892,7 @@
     (property "Datasheet" "https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf" (id 3) (at 218.44 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C2913198" (id 4) (at 219.71 16.51 0)
+    (property "LCSC" "C2913197" (id 4) (at 219.71 16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid edd11165-961d-4d14-a328-f65978dcf826))
