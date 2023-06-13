@@ -16,6 +16,8 @@ desired.
 
 ![](img/perspective.png)
 
+An accompanying 3D printable case design can be found in the
+https://github.com/co2monnz/cad repository.
 
 ## License, Copyright and Reuse
 
